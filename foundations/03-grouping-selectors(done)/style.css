@@ -1,0 +1,15 @@
+.govt {
+    background-color: #000000;
+    color: #f5f5f5;
+    font-weight: bold;
+}
+
+.taxi {
+    background-color: #FFD854;
+}
+
+.govt,
+.taxi {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif ;
+}
